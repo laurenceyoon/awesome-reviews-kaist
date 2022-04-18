@@ -9,7 +9,7 @@
   
 * [\[2021 Fall\] Paper review](paper-review/2021-fall-paper-review/README.md)
   * [\(Template\) Title \[Language\]](paper-review/2021-fall-paper-review/template-paper-review.md)
-  * [YOLOX 2021 \[Eng\]](paper-review/2022-spring-paper-review/YOLOX-2021.md)
+  * [YOLOX 2021 \[Eng\]](paper-review/2022-spring-paper-review/arxiv-2021-yolox-kor.md)
 ## Author's note
 
 * [\[2022 Spring\] Author's note](authors-note/2022-spring-authors-note/README.md)
